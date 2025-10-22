@@ -38,14 +38,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="92xxxxxxxxxx"
+      OWNER_NUMBER="255746435120"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "Put Session Id Here"
       THUMB_IMAGE = "https://telegra.ph/file/8f6f537cc4103b48f3783.jpg"
       port = 5000
-      email = "xxxxxxxxxxxxx@gmail.com"
+      email = "johnsonmadunge1234@gmail.com"
       global_url = "www.instagram.com/itz_shaikho/_"
-      OWNER_NAME = "SALMAN"
+      OWNER_NAME = "Čhäm"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 354
       READ_MESSAGE = false
@@ -67,3 +67,4 @@
 
       To start bot ``` npm start ```,
       To stop bot ``` npm stop ```
+
